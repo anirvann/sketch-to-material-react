@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.4.0",
-    "log4js": "^5.1.0",
+    "log4js": "^6.4.0",
     "node-fetch": "^2.6.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
